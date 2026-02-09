@@ -1,0 +1,901 @@
+concept,template_id,template,text
+love,0,This is about {concept}.,This is about love.
+love,1,The concept of {concept} is important.,The concept of love is important.
+love,2,{concept} represents a fundamental idea.,love represents a fundamental idea.
+love,3,Understanding {concept} requires careful thought.,Understanding love requires careful thought.
+love,4,Many people think about {concept} differently.,Many people think about love differently.
+love,5,The meaning of {concept} can vary across cultures.,The meaning of love can vary across cultures.
+happiness,0,This is about {concept}.,This is about happiness.
+happiness,1,The concept of {concept} is important.,The concept of happiness is important.
+happiness,2,{concept} represents a fundamental idea.,happiness represents a fundamental idea.
+happiness,3,Understanding {concept} requires careful thought.,Understanding happiness requires careful thought.
+happiness,4,Many people think about {concept} differently.,Many people think about happiness differently.
+happiness,5,The meaning of {concept} can vary across cultures.,The meaning of happiness can vary across cultures.
+freedom,0,This is about {concept}.,This is about freedom.
+freedom,1,The concept of {concept} is important.,The concept of freedom is important.
+freedom,2,{concept} represents a fundamental idea.,freedom represents a fundamental idea.
+freedom,3,Understanding {concept} requires careful thought.,Understanding freedom requires careful thought.
+freedom,4,Many people think about {concept} differently.,Many people think about freedom differently.
+freedom,5,The meaning of {concept} can vary across cultures.,The meaning of freedom can vary across cultures.
+justice,0,This is about {concept}.,This is about justice.
+justice,1,The concept of {concept} is important.,The concept of justice is important.
+justice,2,{concept} represents a fundamental idea.,justice represents a fundamental idea.
+justice,3,Understanding {concept} requires careful thought.,Understanding justice requires careful thought.
+justice,4,Many people think about {concept} differently.,Many people think about justice differently.
+justice,5,The meaning of {concept} can vary across cultures.,The meaning of justice can vary across cultures.
+truth,0,This is about {concept}.,This is about truth.
+truth,1,The concept of {concept} is important.,The concept of truth is important.
+truth,2,{concept} represents a fundamental idea.,truth represents a fundamental idea.
+truth,3,Understanding {concept} requires careful thought.,Understanding truth requires careful thought.
+truth,4,Many people think about {concept} differently.,Many people think about truth differently.
+truth,5,The meaning of {concept} can vary across cultures.,The meaning of truth can vary across cultures.
+beauty,0,This is about {concept}.,This is about beauty.
+beauty,1,The concept of {concept} is important.,The concept of beauty is important.
+beauty,2,{concept} represents a fundamental idea.,beauty represents a fundamental idea.
+beauty,3,Understanding {concept} requires careful thought.,Understanding beauty requires careful thought.
+beauty,4,Many people think about {concept} differently.,Many people think about beauty differently.
+beauty,5,The meaning of {concept} can vary across cultures.,The meaning of beauty can vary across cultures.
+wisdom,0,This is about {concept}.,This is about wisdom.
+wisdom,1,The concept of {concept} is important.,The concept of wisdom is important.
+wisdom,2,{concept} represents a fundamental idea.,wisdom represents a fundamental idea.
+wisdom,3,Understanding {concept} requires careful thought.,Understanding wisdom requires careful thought.
+wisdom,4,Many people think about {concept} differently.,Many people think about wisdom differently.
+wisdom,5,The meaning of {concept} can vary across cultures.,The meaning of wisdom can vary across cultures.
+courage,0,This is about {concept}.,This is about courage.
+courage,1,The concept of {concept} is important.,The concept of courage is important.
+courage,2,{concept} represents a fundamental idea.,courage represents a fundamental idea.
+courage,3,Understanding {concept} requires careful thought.,Understanding courage requires careful thought.
+courage,4,Many people think about {concept} differently.,Many people think about courage differently.
+courage,5,The meaning of {concept} can vary across cultures.,The meaning of courage can vary across cultures.
+knowledge,0,This is about {concept}.,This is about knowledge.
+knowledge,1,The concept of {concept} is important.,The concept of knowledge is important.
+knowledge,2,{concept} represents a fundamental idea.,knowledge represents a fundamental idea.
+knowledge,3,Understanding {concept} requires careful thought.,Understanding knowledge requires careful thought.
+knowledge,4,Many people think about {concept} differently.,Many people think about knowledge differently.
+knowledge,5,The meaning of {concept} can vary across cultures.,The meaning of knowledge can vary across cultures.
+peace,0,This is about {concept}.,This is about peace.
+peace,1,The concept of {concept} is important.,The concept of peace is important.
+peace,2,{concept} represents a fundamental idea.,peace represents a fundamental idea.
+peace,3,Understanding {concept} requires careful thought.,Understanding peace requires careful thought.
+peace,4,Many people think about {concept} differently.,Many people think about peace differently.
+peace,5,The meaning of {concept} can vary across cultures.,The meaning of peace can vary across cultures.
+hope,0,This is about {concept}.,This is about hope.
+hope,1,The concept of {concept} is important.,The concept of hope is important.
+hope,2,{concept} represents a fundamental idea.,hope represents a fundamental idea.
+hope,3,Understanding {concept} requires careful thought.,Understanding hope requires careful thought.
+hope,4,Many people think about {concept} differently.,Many people think about hope differently.
+hope,5,The meaning of {concept} can vary across cultures.,The meaning of hope can vary across cultures.
+faith,0,This is about {concept}.,This is about faith.
+faith,1,The concept of {concept} is important.,The concept of faith is important.
+faith,2,{concept} represents a fundamental idea.,faith represents a fundamental idea.
+faith,3,Understanding {concept} requires careful thought.,Understanding faith requires careful thought.
+faith,4,Many people think about {concept} differently.,Many people think about faith differently.
+faith,5,The meaning of {concept} can vary across cultures.,The meaning of faith can vary across cultures.
+trust,0,This is about {concept}.,This is about trust.
+trust,1,The concept of {concept} is important.,The concept of trust is important.
+trust,2,{concept} represents a fundamental idea.,trust represents a fundamental idea.
+trust,3,Understanding {concept} requires careful thought.,Understanding trust requires careful thought.
+trust,4,Many people think about {concept} differently.,Many people think about trust differently.
+trust,5,The meaning of {concept} can vary across cultures.,The meaning of trust can vary across cultures.
+loyalty,0,This is about {concept}.,This is about loyalty.
+loyalty,1,The concept of {concept} is important.,The concept of loyalty is important.
+loyalty,2,{concept} represents a fundamental idea.,loyalty represents a fundamental idea.
+loyalty,3,Understanding {concept} requires careful thought.,Understanding loyalty requires careful thought.
+loyalty,4,Many people think about {concept} differently.,Many people think about loyalty differently.
+loyalty,5,The meaning of {concept} can vary across cultures.,The meaning of loyalty can vary across cultures.
+honesty,0,This is about {concept}.,This is about honesty.
+honesty,1,The concept of {concept} is important.,The concept of honesty is important.
+honesty,2,{concept} represents a fundamental idea.,honesty represents a fundamental idea.
+honesty,3,Understanding {concept} requires careful thought.,Understanding honesty requires careful thought.
+honesty,4,Many people think about {concept} differently.,Many people think about honesty differently.
+honesty,5,The meaning of {concept} can vary across cultures.,The meaning of honesty can vary across cultures.
+integrity,0,This is about {concept}.,This is about integrity.
+integrity,1,The concept of {concept} is important.,The concept of integrity is important.
+integrity,2,{concept} represents a fundamental idea.,integrity represents a fundamental idea.
+integrity,3,Understanding {concept} requires careful thought.,Understanding integrity requires careful thought.
+integrity,4,Many people think about {concept} differently.,Many people think about integrity differently.
+integrity,5,The meaning of {concept} can vary across cultures.,The meaning of integrity can vary across cultures.
+joy,0,This is about {concept}.,This is about joy.
+joy,1,The concept of {concept} is important.,The concept of joy is important.
+joy,2,{concept} represents a fundamental idea.,joy represents a fundamental idea.
+joy,3,Understanding {concept} requires careful thought.,Understanding joy requires careful thought.
+joy,4,Many people think about {concept} differently.,Many people think about joy differently.
+joy,5,The meaning of {concept} can vary across cultures.,The meaning of joy can vary across cultures.
+sadness,0,This is about {concept}.,This is about sadness.
+sadness,1,The concept of {concept} is important.,The concept of sadness is important.
+sadness,2,{concept} represents a fundamental idea.,sadness represents a fundamental idea.
+sadness,3,Understanding {concept} requires careful thought.,Understanding sadness requires careful thought.
+sadness,4,Many people think about {concept} differently.,Many people think about sadness differently.
+sadness,5,The meaning of {concept} can vary across cultures.,The meaning of sadness can vary across cultures.
+anger,0,This is about {concept}.,This is about anger.
+anger,1,The concept of {concept} is important.,The concept of anger is important.
+anger,2,{concept} represents a fundamental idea.,anger represents a fundamental idea.
+anger,3,Understanding {concept} requires careful thought.,Understanding anger requires careful thought.
+anger,4,Many people think about {concept} differently.,Many people think about anger differently.
+anger,5,The meaning of {concept} can vary across cultures.,The meaning of anger can vary across cultures.
+fear,0,This is about {concept}.,This is about fear.
+fear,1,The concept of {concept} is important.,The concept of fear is important.
+fear,2,{concept} represents a fundamental idea.,fear represents a fundamental idea.
+fear,3,Understanding {concept} requires careful thought.,Understanding fear requires careful thought.
+fear,4,Many people think about {concept} differently.,Many people think about fear differently.
+fear,5,The meaning of {concept} can vary across cultures.,The meaning of fear can vary across cultures.
+surprise,0,This is about {concept}.,This is about surprise.
+surprise,1,The concept of {concept} is important.,The concept of surprise is important.
+surprise,2,{concept} represents a fundamental idea.,surprise represents a fundamental idea.
+surprise,3,Understanding {concept} requires careful thought.,Understanding surprise requires careful thought.
+surprise,4,Many people think about {concept} differently.,Many people think about surprise differently.
+surprise,5,The meaning of {concept} can vary across cultures.,The meaning of surprise can vary across cultures.
+disgust,0,This is about {concept}.,This is about disgust.
+disgust,1,The concept of {concept} is important.,The concept of disgust is important.
+disgust,2,{concept} represents a fundamental idea.,disgust represents a fundamental idea.
+disgust,3,Understanding {concept} requires careful thought.,Understanding disgust requires careful thought.
+disgust,4,Many people think about {concept} differently.,Many people think about disgust differently.
+disgust,5,The meaning of {concept} can vary across cultures.,The meaning of disgust can vary across cultures.
+anticipation,0,This is about {concept}.,This is about anticipation.
+anticipation,1,The concept of {concept} is important.,The concept of anticipation is important.
+anticipation,2,{concept} represents a fundamental idea.,anticipation represents a fundamental idea.
+anticipation,3,Understanding {concept} requires careful thought.,Understanding anticipation requires careful thought.
+anticipation,4,Many people think about {concept} differently.,Many people think about anticipation differently.
+anticipation,5,The meaning of {concept} can vary across cultures.,The meaning of anticipation can vary across cultures.
+acceptance,0,This is about {concept}.,This is about acceptance.
+acceptance,1,The concept of {concept} is important.,The concept of acceptance is important.
+acceptance,2,{concept} represents a fundamental idea.,acceptance represents a fundamental idea.
+acceptance,3,Understanding {concept} requires careful thought.,Understanding acceptance requires careful thought.
+acceptance,4,Many people think about {concept} differently.,Many people think about acceptance differently.
+acceptance,5,The meaning of {concept} can vary across cultures.,The meaning of acceptance can vary across cultures.
+excitement,0,This is about {concept}.,This is about excitement.
+excitement,1,The concept of {concept} is important.,The concept of excitement is important.
+excitement,2,{concept} represents a fundamental idea.,excitement represents a fundamental idea.
+excitement,3,Understanding {concept} requires careful thought.,Understanding excitement requires careful thought.
+excitement,4,Many people think about {concept} differently.,Many people think about excitement differently.
+excitement,5,The meaning of {concept} can vary across cultures.,The meaning of excitement can vary across cultures.
+anxiety,0,This is about {concept}.,This is about anxiety.
+anxiety,1,The concept of {concept} is important.,The concept of anxiety is important.
+anxiety,2,{concept} represents a fundamental idea.,anxiety represents a fundamental idea.
+anxiety,3,Understanding {concept} requires careful thought.,Understanding anxiety requires careful thought.
+anxiety,4,Many people think about {concept} differently.,Many people think about anxiety differently.
+anxiety,5,The meaning of {concept} can vary across cultures.,The meaning of anxiety can vary across cultures.
+calm,0,This is about {concept}.,This is about calm.
+calm,1,The concept of {concept} is important.,The concept of calm is important.
+calm,2,{concept} represents a fundamental idea.,calm represents a fundamental idea.
+calm,3,Understanding {concept} requires careful thought.,Understanding calm requires careful thought.
+calm,4,Many people think about {concept} differently.,Many people think about calm differently.
+calm,5,The meaning of {concept} can vary across cultures.,The meaning of calm can vary across cultures.
+stress,0,This is about {concept}.,This is about stress.
+stress,1,The concept of {concept} is important.,The concept of stress is important.
+stress,2,{concept} represents a fundamental idea.,stress represents a fundamental idea.
+stress,3,Understanding {concept} requires careful thought.,Understanding stress requires careful thought.
+stress,4,Many people think about {concept} differently.,Many people think about stress differently.
+stress,5,The meaning of {concept} can vary across cultures.,The meaning of stress can vary across cultures.
+relief,0,This is about {concept}.,This is about relief.
+relief,1,The concept of {concept} is important.,The concept of relief is important.
+relief,2,{concept} represents a fundamental idea.,relief represents a fundamental idea.
+relief,3,Understanding {concept} requires careful thought.,Understanding relief requires careful thought.
+relief,4,Many people think about {concept} differently.,Many people think about relief differently.
+relief,5,The meaning of {concept} can vary across cultures.,The meaning of relief can vary across cultures.
+pride,0,This is about {concept}.,This is about pride.
+pride,1,The concept of {concept} is important.,The concept of pride is important.
+pride,2,{concept} represents a fundamental idea.,pride represents a fundamental idea.
+pride,3,Understanding {concept} requires careful thought.,Understanding pride requires careful thought.
+pride,4,Many people think about {concept} differently.,Many people think about pride differently.
+pride,5,The meaning of {concept} can vary across cultures.,The meaning of pride can vary across cultures.
+shame,0,This is about {concept}.,This is about shame.
+shame,1,The concept of {concept} is important.,The concept of shame is important.
+shame,2,{concept} represents a fundamental idea.,shame represents a fundamental idea.
+shame,3,Understanding {concept} requires careful thought.,Understanding shame requires careful thought.
+shame,4,Many people think about {concept} differently.,Many people think about shame differently.
+shame,5,The meaning of {concept} can vary across cultures.,The meaning of shame can vary across cultures.
+guilt,0,This is about {concept}.,This is about guilt.
+guilt,1,The concept of {concept} is important.,The concept of guilt is important.
+guilt,2,{concept} represents a fundamental idea.,guilt represents a fundamental idea.
+guilt,3,Understanding {concept} requires careful thought.,Understanding guilt requires careful thought.
+guilt,4,Many people think about {concept} differently.,Many people think about guilt differently.
+guilt,5,The meaning of {concept} can vary across cultures.,The meaning of guilt can vary across cultures.
+mountain,0,This is about {concept}.,This is about mountain.
+mountain,1,The concept of {concept} is important.,The concept of mountain is important.
+mountain,2,{concept} represents a fundamental idea.,mountain represents a fundamental idea.
+mountain,3,Understanding {concept} requires careful thought.,Understanding mountain requires careful thought.
+mountain,4,Many people think about {concept} differently.,Many people think about mountain differently.
+mountain,5,The meaning of {concept} can vary across cultures.,The meaning of mountain can vary across cultures.
+river,0,This is about {concept}.,This is about river.
+river,1,The concept of {concept} is important.,The concept of river is important.
+river,2,{concept} represents a fundamental idea.,river represents a fundamental idea.
+river,3,Understanding {concept} requires careful thought.,Understanding river requires careful thought.
+river,4,Many people think about {concept} differently.,Many people think about river differently.
+river,5,The meaning of {concept} can vary across cultures.,The meaning of river can vary across cultures.
+ocean,0,This is about {concept}.,This is about ocean.
+ocean,1,The concept of {concept} is important.,The concept of ocean is important.
+ocean,2,{concept} represents a fundamental idea.,ocean represents a fundamental idea.
+ocean,3,Understanding {concept} requires careful thought.,Understanding ocean requires careful thought.
+ocean,4,Many people think about {concept} differently.,Many people think about ocean differently.
+ocean,5,The meaning of {concept} can vary across cultures.,The meaning of ocean can vary across cultures.
+forest,0,This is about {concept}.,This is about forest.
+forest,1,The concept of {concept} is important.,The concept of forest is important.
+forest,2,{concept} represents a fundamental idea.,forest represents a fundamental idea.
+forest,3,Understanding {concept} requires careful thought.,Understanding forest requires careful thought.
+forest,4,Many people think about {concept} differently.,Many people think about forest differently.
+forest,5,The meaning of {concept} can vary across cultures.,The meaning of forest can vary across cultures.
+desert,0,This is about {concept}.,This is about desert.
+desert,1,The concept of {concept} is important.,The concept of desert is important.
+desert,2,{concept} represents a fundamental idea.,desert represents a fundamental idea.
+desert,3,Understanding {concept} requires careful thought.,Understanding desert requires careful thought.
+desert,4,Many people think about {concept} differently.,Many people think about desert differently.
+desert,5,The meaning of {concept} can vary across cultures.,The meaning of desert can vary across cultures.
+sky,0,This is about {concept}.,This is about sky.
+sky,1,The concept of {concept} is important.,The concept of sky is important.
+sky,2,{concept} represents a fundamental idea.,sky represents a fundamental idea.
+sky,3,Understanding {concept} requires careful thought.,Understanding sky requires careful thought.
+sky,4,Many people think about {concept} differently.,Many people think about sky differently.
+sky,5,The meaning of {concept} can vary across cultures.,The meaning of sky can vary across cultures.
+sun,0,This is about {concept}.,This is about sun.
+sun,1,The concept of {concept} is important.,The concept of sun is important.
+sun,2,{concept} represents a fundamental idea.,sun represents a fundamental idea.
+sun,3,Understanding {concept} requires careful thought.,Understanding sun requires careful thought.
+sun,4,Many people think about {concept} differently.,Many people think about sun differently.
+sun,5,The meaning of {concept} can vary across cultures.,The meaning of sun can vary across cultures.
+moon,0,This is about {concept}.,This is about moon.
+moon,1,The concept of {concept} is important.,The concept of moon is important.
+moon,2,{concept} represents a fundamental idea.,moon represents a fundamental idea.
+moon,3,Understanding {concept} requires careful thought.,Understanding moon requires careful thought.
+moon,4,Many people think about {concept} differently.,Many people think about moon differently.
+moon,5,The meaning of {concept} can vary across cultures.,The meaning of moon can vary across cultures.
+star,0,This is about {concept}.,This is about star.
+star,1,The concept of {concept} is important.,The concept of star is important.
+star,2,{concept} represents a fundamental idea.,star represents a fundamental idea.
+star,3,Understanding {concept} requires careful thought.,Understanding star requires careful thought.
+star,4,Many people think about {concept} differently.,Many people think about star differently.
+star,5,The meaning of {concept} can vary across cultures.,The meaning of star can vary across cultures.
+cloud,0,This is about {concept}.,This is about cloud.
+cloud,1,The concept of {concept} is important.,The concept of cloud is important.
+cloud,2,{concept} represents a fundamental idea.,cloud represents a fundamental idea.
+cloud,3,Understanding {concept} requires careful thought.,Understanding cloud requires careful thought.
+cloud,4,Many people think about {concept} differently.,Many people think about cloud differently.
+cloud,5,The meaning of {concept} can vary across cultures.,The meaning of cloud can vary across cultures.
+rain,0,This is about {concept}.,This is about rain.
+rain,1,The concept of {concept} is important.,The concept of rain is important.
+rain,2,{concept} represents a fundamental idea.,rain represents a fundamental idea.
+rain,3,Understanding {concept} requires careful thought.,Understanding rain requires careful thought.
+rain,4,Many people think about {concept} differently.,Many people think about rain differently.
+rain,5,The meaning of {concept} can vary across cultures.,The meaning of rain can vary across cultures.
+snow,0,This is about {concept}.,This is about snow.
+snow,1,The concept of {concept} is important.,The concept of snow is important.
+snow,2,{concept} represents a fundamental idea.,snow represents a fundamental idea.
+snow,3,Understanding {concept} requires careful thought.,Understanding snow requires careful thought.
+snow,4,Many people think about {concept} differently.,Many people think about snow differently.
+snow,5,The meaning of {concept} can vary across cultures.,The meaning of snow can vary across cultures.
+wind,0,This is about {concept}.,This is about wind.
+wind,1,The concept of {concept} is important.,The concept of wind is important.
+wind,2,{concept} represents a fundamental idea.,wind represents a fundamental idea.
+wind,3,Understanding {concept} requires careful thought.,Understanding wind requires careful thought.
+wind,4,Many people think about {concept} differently.,Many people think about wind differently.
+wind,5,The meaning of {concept} can vary across cultures.,The meaning of wind can vary across cultures.
+fire,0,This is about {concept}.,This is about fire.
+fire,1,The concept of {concept} is important.,The concept of fire is important.
+fire,2,{concept} represents a fundamental idea.,fire represents a fundamental idea.
+fire,3,Understanding {concept} requires careful thought.,Understanding fire requires careful thought.
+fire,4,Many people think about {concept} differently.,Many people think about fire differently.
+fire,5,The meaning of {concept} can vary across cultures.,The meaning of fire can vary across cultures.
+earth,0,This is about {concept}.,This is about earth.
+earth,1,The concept of {concept} is important.,The concept of earth is important.
+earth,2,{concept} represents a fundamental idea.,earth represents a fundamental idea.
+earth,3,Understanding {concept} requires careful thought.,Understanding earth requires careful thought.
+earth,4,Many people think about {concept} differently.,Many people think about earth differently.
+earth,5,The meaning of {concept} can vary across cultures.,The meaning of earth can vary across cultures.
+water,0,This is about {concept}.,This is about water.
+water,1,The concept of {concept} is important.,The concept of water is important.
+water,2,{concept} represents a fundamental idea.,water represents a fundamental idea.
+water,3,Understanding {concept} requires careful thought.,Understanding water requires careful thought.
+water,4,Many people think about {concept} differently.,Many people think about water differently.
+water,5,The meaning of {concept} can vary across cultures.,The meaning of water can vary across cultures.
+dog,0,This is about {concept}.,This is about dog.
+dog,1,The concept of {concept} is important.,The concept of dog is important.
+dog,2,{concept} represents a fundamental idea.,dog represents a fundamental idea.
+dog,3,Understanding {concept} requires careful thought.,Understanding dog requires careful thought.
+dog,4,Many people think about {concept} differently.,Many people think about dog differently.
+dog,5,The meaning of {concept} can vary across cultures.,The meaning of dog can vary across cultures.
+cat,0,This is about {concept}.,This is about cat.
+cat,1,The concept of {concept} is important.,The concept of cat is important.
+cat,2,{concept} represents a fundamental idea.,cat represents a fundamental idea.
+cat,3,Understanding {concept} requires careful thought.,Understanding cat requires careful thought.
+cat,4,Many people think about {concept} differently.,Many people think about cat differently.
+cat,5,The meaning of {concept} can vary across cultures.,The meaning of cat can vary across cultures.
+bird,0,This is about {concept}.,This is about bird.
+bird,1,The concept of {concept} is important.,The concept of bird is important.
+bird,2,{concept} represents a fundamental idea.,bird represents a fundamental idea.
+bird,3,Understanding {concept} requires careful thought.,Understanding bird requires careful thought.
+bird,4,Many people think about {concept} differently.,Many people think about bird differently.
+bird,5,The meaning of {concept} can vary across cultures.,The meaning of bird can vary across cultures.
+fish,0,This is about {concept}.,This is about fish.
+fish,1,The concept of {concept} is important.,The concept of fish is important.
+fish,2,{concept} represents a fundamental idea.,fish represents a fundamental idea.
+fish,3,Understanding {concept} requires careful thought.,Understanding fish requires careful thought.
+fish,4,Many people think about {concept} differently.,Many people think about fish differently.
+fish,5,The meaning of {concept} can vary across cultures.,The meaning of fish can vary across cultures.
+elephant,0,This is about {concept}.,This is about elephant.
+elephant,1,The concept of {concept} is important.,The concept of elephant is important.
+elephant,2,{concept} represents a fundamental idea.,elephant represents a fundamental idea.
+elephant,3,Understanding {concept} requires careful thought.,Understanding elephant requires careful thought.
+elephant,4,Many people think about {concept} differently.,Many people think about elephant differently.
+elephant,5,The meaning of {concept} can vary across cultures.,The meaning of elephant can vary across cultures.
+lion,0,This is about {concept}.,This is about lion.
+lion,1,The concept of {concept} is important.,The concept of lion is important.
+lion,2,{concept} represents a fundamental idea.,lion represents a fundamental idea.
+lion,3,Understanding {concept} requires careful thought.,Understanding lion requires careful thought.
+lion,4,Many people think about {concept} differently.,Many people think about lion differently.
+lion,5,The meaning of {concept} can vary across cultures.,The meaning of lion can vary across cultures.
+tiger,0,This is about {concept}.,This is about tiger.
+tiger,1,The concept of {concept} is important.,The concept of tiger is important.
+tiger,2,{concept} represents a fundamental idea.,tiger represents a fundamental idea.
+tiger,3,Understanding {concept} requires careful thought.,Understanding tiger requires careful thought.
+tiger,4,Many people think about {concept} differently.,Many people think about tiger differently.
+tiger,5,The meaning of {concept} can vary across cultures.,The meaning of tiger can vary across cultures.
+bear,0,This is about {concept}.,This is about bear.
+bear,1,The concept of {concept} is important.,The concept of bear is important.
+bear,2,{concept} represents a fundamental idea.,bear represents a fundamental idea.
+bear,3,Understanding {concept} requires careful thought.,Understanding bear requires careful thought.
+bear,4,Many people think about {concept} differently.,Many people think about bear differently.
+bear,5,The meaning of {concept} can vary across cultures.,The meaning of bear can vary across cultures.
+horse,0,This is about {concept}.,This is about horse.
+horse,1,The concept of {concept} is important.,The concept of horse is important.
+horse,2,{concept} represents a fundamental idea.,horse represents a fundamental idea.
+horse,3,Understanding {concept} requires careful thought.,Understanding horse requires careful thought.
+horse,4,Many people think about {concept} differently.,Many people think about horse differently.
+horse,5,The meaning of {concept} can vary across cultures.,The meaning of horse can vary across cultures.
+cow,0,This is about {concept}.,This is about cow.
+cow,1,The concept of {concept} is important.,The concept of cow is important.
+cow,2,{concept} represents a fundamental idea.,cow represents a fundamental idea.
+cow,3,Understanding {concept} requires careful thought.,Understanding cow requires careful thought.
+cow,4,Many people think about {concept} differently.,Many people think about cow differently.
+cow,5,The meaning of {concept} can vary across cultures.,The meaning of cow can vary across cultures.
+sheep,0,This is about {concept}.,This is about sheep.
+sheep,1,The concept of {concept} is important.,The concept of sheep is important.
+sheep,2,{concept} represents a fundamental idea.,sheep represents a fundamental idea.
+sheep,3,Understanding {concept} requires careful thought.,Understanding sheep requires careful thought.
+sheep,4,Many people think about {concept} differently.,Many people think about sheep differently.
+sheep,5,The meaning of {concept} can vary across cultures.,The meaning of sheep can vary across cultures.
+pig,0,This is about {concept}.,This is about pig.
+pig,1,The concept of {concept} is important.,The concept of pig is important.
+pig,2,{concept} represents a fundamental idea.,pig represents a fundamental idea.
+pig,3,Understanding {concept} requires careful thought.,Understanding pig requires careful thought.
+pig,4,Many people think about {concept} differently.,Many people think about pig differently.
+pig,5,The meaning of {concept} can vary across cultures.,The meaning of pig can vary across cultures.
+chicken,0,This is about {concept}.,This is about chicken.
+chicken,1,The concept of {concept} is important.,The concept of chicken is important.
+chicken,2,{concept} represents a fundamental idea.,chicken represents a fundamental idea.
+chicken,3,Understanding {concept} requires careful thought.,Understanding chicken requires careful thought.
+chicken,4,Many people think about {concept} differently.,Many people think about chicken differently.
+chicken,5,The meaning of {concept} can vary across cultures.,The meaning of chicken can vary across cultures.
+duck,0,This is about {concept}.,This is about duck.
+duck,1,The concept of {concept} is important.,The concept of duck is important.
+duck,2,{concept} represents a fundamental idea.,duck represents a fundamental idea.
+duck,3,Understanding {concept} requires careful thought.,Understanding duck requires careful thought.
+duck,4,Many people think about {concept} differently.,Many people think about duck differently.
+duck,5,The meaning of {concept} can vary across cultures.,The meaning of duck can vary across cultures.
+rabbit,0,This is about {concept}.,This is about rabbit.
+rabbit,1,The concept of {concept} is important.,The concept of rabbit is important.
+rabbit,2,{concept} represents a fundamental idea.,rabbit represents a fundamental idea.
+rabbit,3,Understanding {concept} requires careful thought.,Understanding rabbit requires careful thought.
+rabbit,4,Many people think about {concept} differently.,Many people think about rabbit differently.
+rabbit,5,The meaning of {concept} can vary across cultures.,The meaning of rabbit can vary across cultures.
+mouse,0,This is about {concept}.,This is about mouse.
+mouse,1,The concept of {concept} is important.,The concept of mouse is important.
+mouse,2,{concept} represents a fundamental idea.,mouse represents a fundamental idea.
+mouse,3,Understanding {concept} requires careful thought.,Understanding mouse requires careful thought.
+mouse,4,Many people think about {concept} differently.,Many people think about mouse differently.
+mouse,5,The meaning of {concept} can vary across cultures.,The meaning of mouse can vary across cultures.
+tree,0,This is about {concept}.,This is about tree.
+tree,1,The concept of {concept} is important.,The concept of tree is important.
+tree,2,{concept} represents a fundamental idea.,tree represents a fundamental idea.
+tree,3,Understanding {concept} requires careful thought.,Understanding tree requires careful thought.
+tree,4,Many people think about {concept} differently.,Many people think about tree differently.
+tree,5,The meaning of {concept} can vary across cultures.,The meaning of tree can vary across cultures.
+flower,0,This is about {concept}.,This is about flower.
+flower,1,The concept of {concept} is important.,The concept of flower is important.
+flower,2,{concept} represents a fundamental idea.,flower represents a fundamental idea.
+flower,3,Understanding {concept} requires careful thought.,Understanding flower requires careful thought.
+flower,4,Many people think about {concept} differently.,Many people think about flower differently.
+flower,5,The meaning of {concept} can vary across cultures.,The meaning of flower can vary across cultures.
+grass,0,This is about {concept}.,This is about grass.
+grass,1,The concept of {concept} is important.,The concept of grass is important.
+grass,2,{concept} represents a fundamental idea.,grass represents a fundamental idea.
+grass,3,Understanding {concept} requires careful thought.,Understanding grass requires careful thought.
+grass,4,Many people think about {concept} differently.,Many people think about grass differently.
+grass,5,The meaning of {concept} can vary across cultures.,The meaning of grass can vary across cultures.
+rose,0,This is about {concept}.,This is about rose.
+rose,1,The concept of {concept} is important.,The concept of rose is important.
+rose,2,{concept} represents a fundamental idea.,rose represents a fundamental idea.
+rose,3,Understanding {concept} requires careful thought.,Understanding rose requires careful thought.
+rose,4,Many people think about {concept} differently.,Many people think about rose differently.
+rose,5,The meaning of {concept} can vary across cultures.,The meaning of rose can vary across cultures.
+lily,0,This is about {concept}.,This is about lily.
+lily,1,The concept of {concept} is important.,The concept of lily is important.
+lily,2,{concept} represents a fundamental idea.,lily represents a fundamental idea.
+lily,3,Understanding {concept} requires careful thought.,Understanding lily requires careful thought.
+lily,4,Many people think about {concept} differently.,Many people think about lily differently.
+lily,5,The meaning of {concept} can vary across cultures.,The meaning of lily can vary across cultures.
+orchid,0,This is about {concept}.,This is about orchid.
+orchid,1,The concept of {concept} is important.,The concept of orchid is important.
+orchid,2,{concept} represents a fundamental idea.,orchid represents a fundamental idea.
+orchid,3,Understanding {concept} requires careful thought.,Understanding orchid requires careful thought.
+orchid,4,Many people think about {concept} differently.,Many people think about orchid differently.
+orchid,5,The meaning of {concept} can vary across cultures.,The meaning of orchid can vary across cultures.
+cactus,0,This is about {concept}.,This is about cactus.
+cactus,1,The concept of {concept} is important.,The concept of cactus is important.
+cactus,2,{concept} represents a fundamental idea.,cactus represents a fundamental idea.
+cactus,3,Understanding {concept} requires careful thought.,Understanding cactus requires careful thought.
+cactus,4,Many people think about {concept} differently.,Many people think about cactus differently.
+cactus,5,The meaning of {concept} can vary across cultures.,The meaning of cactus can vary across cultures.
+fern,0,This is about {concept}.,This is about fern.
+fern,1,The concept of {concept} is important.,The concept of fern is important.
+fern,2,{concept} represents a fundamental idea.,fern represents a fundamental idea.
+fern,3,Understanding {concept} requires careful thought.,Understanding fern requires careful thought.
+fern,4,Many people think about {concept} differently.,Many people think about fern differently.
+fern,5,The meaning of {concept} can vary across cultures.,The meaning of fern can vary across cultures.
+oak,0,This is about {concept}.,This is about oak.
+oak,1,The concept of {concept} is important.,The concept of oak is important.
+oak,2,{concept} represents a fundamental idea.,oak represents a fundamental idea.
+oak,3,Understanding {concept} requires careful thought.,Understanding oak requires careful thought.
+oak,4,Many people think about {concept} differently.,Many people think about oak differently.
+oak,5,The meaning of {concept} can vary across cultures.,The meaning of oak can vary across cultures.
+pine,0,This is about {concept}.,This is about pine.
+pine,1,The concept of {concept} is important.,The concept of pine is important.
+pine,2,{concept} represents a fundamental idea.,pine represents a fundamental idea.
+pine,3,Understanding {concept} requires careful thought.,Understanding pine requires careful thought.
+pine,4,Many people think about {concept} differently.,Many people think about pine differently.
+pine,5,The meaning of {concept} can vary across cultures.,The meaning of pine can vary across cultures.
+maple,0,This is about {concept}.,This is about maple.
+maple,1,The concept of {concept} is important.,The concept of maple is important.
+maple,2,{concept} represents a fundamental idea.,maple represents a fundamental idea.
+maple,3,Understanding {concept} requires careful thought.,Understanding maple requires careful thought.
+maple,4,Many people think about {concept} differently.,Many people think about maple differently.
+maple,5,The meaning of {concept} can vary across cultures.,The meaning of maple can vary across cultures.
+willow,0,This is about {concept}.,This is about willow.
+willow,1,The concept of {concept} is important.,The concept of willow is important.
+willow,2,{concept} represents a fundamental idea.,willow represents a fundamental idea.
+willow,3,Understanding {concept} requires careful thought.,Understanding willow requires careful thought.
+willow,4,Many people think about {concept} differently.,Many people think about willow differently.
+willow,5,The meaning of {concept} can vary across cultures.,The meaning of willow can vary across cultures.
+bamboo,0,This is about {concept}.,This is about bamboo.
+bamboo,1,The concept of {concept} is important.,The concept of bamboo is important.
+bamboo,2,{concept} represents a fundamental idea.,bamboo represents a fundamental idea.
+bamboo,3,Understanding {concept} requires careful thought.,Understanding bamboo requires careful thought.
+bamboo,4,Many people think about {concept} differently.,Many people think about bamboo differently.
+bamboo,5,The meaning of {concept} can vary across cultures.,The meaning of bamboo can vary across cultures.
+moss,0,This is about {concept}.,This is about moss.
+moss,1,The concept of {concept} is important.,The concept of moss is important.
+moss,2,{concept} represents a fundamental idea.,moss represents a fundamental idea.
+moss,3,Understanding {concept} requires careful thought.,Understanding moss requires careful thought.
+moss,4,Many people think about {concept} differently.,Many people think about moss differently.
+moss,5,The meaning of {concept} can vary across cultures.,The meaning of moss can vary across cultures.
+ivy,0,This is about {concept}.,This is about ivy.
+ivy,1,The concept of {concept} is important.,The concept of ivy is important.
+ivy,2,{concept} represents a fundamental idea.,ivy represents a fundamental idea.
+ivy,3,Understanding {concept} requires careful thought.,Understanding ivy requires careful thought.
+ivy,4,Many people think about {concept} differently.,Many people think about ivy differently.
+ivy,5,The meaning of {concept} can vary across cultures.,The meaning of ivy can vary across cultures.
+vine,0,This is about {concept}.,This is about vine.
+vine,1,The concept of {concept} is important.,The concept of vine is important.
+vine,2,{concept} represents a fundamental idea.,vine represents a fundamental idea.
+vine,3,Understanding {concept} requires careful thought.,Understanding vine requires careful thought.
+vine,4,Many people think about {concept} differently.,Many people think about vine differently.
+vine,5,The meaning of {concept} can vary across cultures.,The meaning of vine can vary across cultures.
+apple,0,This is about {concept}.,This is about apple.
+apple,1,The concept of {concept} is important.,The concept of apple is important.
+apple,2,{concept} represents a fundamental idea.,apple represents a fundamental idea.
+apple,3,Understanding {concept} requires careful thought.,Understanding apple requires careful thought.
+apple,4,Many people think about {concept} differently.,Many people think about apple differently.
+apple,5,The meaning of {concept} can vary across cultures.,The meaning of apple can vary across cultures.
+banana,0,This is about {concept}.,This is about banana.
+banana,1,The concept of {concept} is important.,The concept of banana is important.
+banana,2,{concept} represents a fundamental idea.,banana represents a fundamental idea.
+banana,3,Understanding {concept} requires careful thought.,Understanding banana requires careful thought.
+banana,4,Many people think about {concept} differently.,Many people think about banana differently.
+banana,5,The meaning of {concept} can vary across cultures.,The meaning of banana can vary across cultures.
+orange,0,This is about {concept}.,This is about orange.
+orange,1,The concept of {concept} is important.,The concept of orange is important.
+orange,2,{concept} represents a fundamental idea.,orange represents a fundamental idea.
+orange,3,Understanding {concept} requires careful thought.,Understanding orange requires careful thought.
+orange,4,Many people think about {concept} differently.,Many people think about orange differently.
+orange,5,The meaning of {concept} can vary across cultures.,The meaning of orange can vary across cultures.
+grape,0,This is about {concept}.,This is about grape.
+grape,1,The concept of {concept} is important.,The concept of grape is important.
+grape,2,{concept} represents a fundamental idea.,grape represents a fundamental idea.
+grape,3,Understanding {concept} requires careful thought.,Understanding grape requires careful thought.
+grape,4,Many people think about {concept} differently.,Many people think about grape differently.
+grape,5,The meaning of {concept} can vary across cultures.,The meaning of grape can vary across cultures.
+strawberry,0,This is about {concept}.,This is about strawberry.
+strawberry,1,The concept of {concept} is important.,The concept of strawberry is important.
+strawberry,2,{concept} represents a fundamental idea.,strawberry represents a fundamental idea.
+strawberry,3,Understanding {concept} requires careful thought.,Understanding strawberry requires careful thought.
+strawberry,4,Many people think about {concept} differently.,Many people think about strawberry differently.
+strawberry,5,The meaning of {concept} can vary across cultures.,The meaning of strawberry can vary across cultures.
+watermelon,0,This is about {concept}.,This is about watermelon.
+watermelon,1,The concept of {concept} is important.,The concept of watermelon is important.
+watermelon,2,{concept} represents a fundamental idea.,watermelon represents a fundamental idea.
+watermelon,3,Understanding {concept} requires careful thought.,Understanding watermelon requires careful thought.
+watermelon,4,Many people think about {concept} differently.,Many people think about watermelon differently.
+watermelon,5,The meaning of {concept} can vary across cultures.,The meaning of watermelon can vary across cultures.
+bread,0,This is about {concept}.,This is about bread.
+bread,1,The concept of {concept} is important.,The concept of bread is important.
+bread,2,{concept} represents a fundamental idea.,bread represents a fundamental idea.
+bread,3,Understanding {concept} requires careful thought.,Understanding bread requires careful thought.
+bread,4,Many people think about {concept} differently.,Many people think about bread differently.
+bread,5,The meaning of {concept} can vary across cultures.,The meaning of bread can vary across cultures.
+rice,0,This is about {concept}.,This is about rice.
+rice,1,The concept of {concept} is important.,The concept of rice is important.
+rice,2,{concept} represents a fundamental idea.,rice represents a fundamental idea.
+rice,3,Understanding {concept} requires careful thought.,Understanding rice requires careful thought.
+rice,4,Many people think about {concept} differently.,Many people think about rice differently.
+rice,5,The meaning of {concept} can vary across cultures.,The meaning of rice can vary across cultures.
+meat,0,This is about {concept}.,This is about meat.
+meat,1,The concept of {concept} is important.,The concept of meat is important.
+meat,2,{concept} represents a fundamental idea.,meat represents a fundamental idea.
+meat,3,Understanding {concept} requires careful thought.,Understanding meat requires careful thought.
+meat,4,Many people think about {concept} differently.,Many people think about meat differently.
+meat,5,The meaning of {concept} can vary across cultures.,The meaning of meat can vary across cultures.
+fish,0,This is about {concept}.,This is about fish.
+fish,1,The concept of {concept} is important.,The concept of fish is important.
+fish,2,{concept} represents a fundamental idea.,fish represents a fundamental idea.
+fish,3,Understanding {concept} requires careful thought.,Understanding fish requires careful thought.
+fish,4,Many people think about {concept} differently.,Many people think about fish differently.
+fish,5,The meaning of {concept} can vary across cultures.,The meaning of fish can vary across cultures.
+vegetable,0,This is about {concept}.,This is about vegetable.
+vegetable,1,The concept of {concept} is important.,The concept of vegetable is important.
+vegetable,2,{concept} represents a fundamental idea.,vegetable represents a fundamental idea.
+vegetable,3,Understanding {concept} requires careful thought.,Understanding vegetable requires careful thought.
+vegetable,4,Many people think about {concept} differently.,Many people think about vegetable differently.
+vegetable,5,The meaning of {concept} can vary across cultures.,The meaning of vegetable can vary across cultures.
+fruit,0,This is about {concept}.,This is about fruit.
+fruit,1,The concept of {concept} is important.,The concept of fruit is important.
+fruit,2,{concept} represents a fundamental idea.,fruit represents a fundamental idea.
+fruit,3,Understanding {concept} requires careful thought.,Understanding fruit requires careful thought.
+fruit,4,Many people think about {concept} differently.,Many people think about fruit differently.
+fruit,5,The meaning of {concept} can vary across cultures.,The meaning of fruit can vary across cultures.
+cheese,0,This is about {concept}.,This is about cheese.
+cheese,1,The concept of {concept} is important.,The concept of cheese is important.
+cheese,2,{concept} represents a fundamental idea.,cheese represents a fundamental idea.
+cheese,3,Understanding {concept} requires careful thought.,Understanding cheese requires careful thought.
+cheese,4,Many people think about {concept} differently.,Many people think about cheese differently.
+cheese,5,The meaning of {concept} can vary across cultures.,The meaning of cheese can vary across cultures.
+milk,0,This is about {concept}.,This is about milk.
+milk,1,The concept of {concept} is important.,The concept of milk is important.
+milk,2,{concept} represents a fundamental idea.,milk represents a fundamental idea.
+milk,3,Understanding {concept} requires careful thought.,Understanding milk requires careful thought.
+milk,4,Many people think about {concept} differently.,Many people think about milk differently.
+milk,5,The meaning of {concept} can vary across cultures.,The meaning of milk can vary across cultures.
+egg,0,This is about {concept}.,This is about egg.
+egg,1,The concept of {concept} is important.,The concept of egg is important.
+egg,2,{concept} represents a fundamental idea.,egg represents a fundamental idea.
+egg,3,Understanding {concept} requires careful thought.,Understanding egg requires careful thought.
+egg,4,Many people think about {concept} differently.,Many people think about egg differently.
+egg,5,The meaning of {concept} can vary across cultures.,The meaning of egg can vary across cultures.
+sugar,0,This is about {concept}.,This is about sugar.
+sugar,1,The concept of {concept} is important.,The concept of sugar is important.
+sugar,2,{concept} represents a fundamental idea.,sugar represents a fundamental idea.
+sugar,3,Understanding {concept} requires careful thought.,Understanding sugar requires careful thought.
+sugar,4,Many people think about {concept} differently.,Many people think about sugar differently.
+sugar,5,The meaning of {concept} can vary across cultures.,The meaning of sugar can vary across cultures.
+red,0,This is about {concept}.,This is about red.
+red,1,The concept of {concept} is important.,The concept of red is important.
+red,2,{concept} represents a fundamental idea.,red represents a fundamental idea.
+red,3,Understanding {concept} requires careful thought.,Understanding red requires careful thought.
+red,4,Many people think about {concept} differently.,Many people think about red differently.
+red,5,The meaning of {concept} can vary across cultures.,The meaning of red can vary across cultures.
+blue,0,This is about {concept}.,This is about blue.
+blue,1,The concept of {concept} is important.,The concept of blue is important.
+blue,2,{concept} represents a fundamental idea.,blue represents a fundamental idea.
+blue,3,Understanding {concept} requires careful thought.,Understanding blue requires careful thought.
+blue,4,Many people think about {concept} differently.,Many people think about blue differently.
+blue,5,The meaning of {concept} can vary across cultures.,The meaning of blue can vary across cultures.
+green,0,This is about {concept}.,This is about green.
+green,1,The concept of {concept} is important.,The concept of green is important.
+green,2,{concept} represents a fundamental idea.,green represents a fundamental idea.
+green,3,Understanding {concept} requires careful thought.,Understanding green requires careful thought.
+green,4,Many people think about {concept} differently.,Many people think about green differently.
+green,5,The meaning of {concept} can vary across cultures.,The meaning of green can vary across cultures.
+yellow,0,This is about {concept}.,This is about yellow.
+yellow,1,The concept of {concept} is important.,The concept of yellow is important.
+yellow,2,{concept} represents a fundamental idea.,yellow represents a fundamental idea.
+yellow,3,Understanding {concept} requires careful thought.,Understanding yellow requires careful thought.
+yellow,4,Many people think about {concept} differently.,Many people think about yellow differently.
+yellow,5,The meaning of {concept} can vary across cultures.,The meaning of yellow can vary across cultures.
+orange,0,This is about {concept}.,This is about orange.
+orange,1,The concept of {concept} is important.,The concept of orange is important.
+orange,2,{concept} represents a fundamental idea.,orange represents a fundamental idea.
+orange,3,Understanding {concept} requires careful thought.,Understanding orange requires careful thought.
+orange,4,Many people think about {concept} differently.,Many people think about orange differently.
+orange,5,The meaning of {concept} can vary across cultures.,The meaning of orange can vary across cultures.
+purple,0,This is about {concept}.,This is about purple.
+purple,1,The concept of {concept} is important.,The concept of purple is important.
+purple,2,{concept} represents a fundamental idea.,purple represents a fundamental idea.
+purple,3,Understanding {concept} requires careful thought.,Understanding purple requires careful thought.
+purple,4,Many people think about {concept} differently.,Many people think about purple differently.
+purple,5,The meaning of {concept} can vary across cultures.,The meaning of purple can vary across cultures.
+pink,0,This is about {concept}.,This is about pink.
+pink,1,The concept of {concept} is important.,The concept of pink is important.
+pink,2,{concept} represents a fundamental idea.,pink represents a fundamental idea.
+pink,3,Understanding {concept} requires careful thought.,Understanding pink requires careful thought.
+pink,4,Many people think about {concept} differently.,Many people think about pink differently.
+pink,5,The meaning of {concept} can vary across cultures.,The meaning of pink can vary across cultures.
+brown,0,This is about {concept}.,This is about brown.
+brown,1,The concept of {concept} is important.,The concept of brown is important.
+brown,2,{concept} represents a fundamental idea.,brown represents a fundamental idea.
+brown,3,Understanding {concept} requires careful thought.,Understanding brown requires careful thought.
+brown,4,Many people think about {concept} differently.,Many people think about brown differently.
+brown,5,The meaning of {concept} can vary across cultures.,The meaning of brown can vary across cultures.
+black,0,This is about {concept}.,This is about black.
+black,1,The concept of {concept} is important.,The concept of black is important.
+black,2,{concept} represents a fundamental idea.,black represents a fundamental idea.
+black,3,Understanding {concept} requires careful thought.,Understanding black requires careful thought.
+black,4,Many people think about {concept} differently.,Many people think about black differently.
+black,5,The meaning of {concept} can vary across cultures.,The meaning of black can vary across cultures.
+white,0,This is about {concept}.,This is about white.
+white,1,The concept of {concept} is important.,The concept of white is important.
+white,2,{concept} represents a fundamental idea.,white represents a fundamental idea.
+white,3,Understanding {concept} requires careful thought.,Understanding white requires careful thought.
+white,4,Many people think about {concept} differently.,Many people think about white differently.
+white,5,The meaning of {concept} can vary across cultures.,The meaning of white can vary across cultures.
+gray,0,This is about {concept}.,This is about gray.
+gray,1,The concept of {concept} is important.,The concept of gray is important.
+gray,2,{concept} represents a fundamental idea.,gray represents a fundamental idea.
+gray,3,Understanding {concept} requires careful thought.,Understanding gray requires careful thought.
+gray,4,Many people think about {concept} differently.,Many people think about gray differently.
+gray,5,The meaning of {concept} can vary across cultures.,The meaning of gray can vary across cultures.
+gold,0,This is about {concept}.,This is about gold.
+gold,1,The concept of {concept} is important.,The concept of gold is important.
+gold,2,{concept} represents a fundamental idea.,gold represents a fundamental idea.
+gold,3,Understanding {concept} requires careful thought.,Understanding gold requires careful thought.
+gold,4,Many people think about {concept} differently.,Many people think about gold differently.
+gold,5,The meaning of {concept} can vary across cultures.,The meaning of gold can vary across cultures.
+silver,0,This is about {concept}.,This is about silver.
+silver,1,The concept of {concept} is important.,The concept of silver is important.
+silver,2,{concept} represents a fundamental idea.,silver represents a fundamental idea.
+silver,3,Understanding {concept} requires careful thought.,Understanding silver requires careful thought.
+silver,4,Many people think about {concept} differently.,Many people think about silver differently.
+silver,5,The meaning of {concept} can vary across cultures.,The meaning of silver can vary across cultures.
+bronze,0,This is about {concept}.,This is about bronze.
+bronze,1,The concept of {concept} is important.,The concept of bronze is important.
+bronze,2,{concept} represents a fundamental idea.,bronze represents a fundamental idea.
+bronze,3,Understanding {concept} requires careful thought.,Understanding bronze requires careful thought.
+bronze,4,Many people think about {concept} differently.,Many people think about bronze differently.
+bronze,5,The meaning of {concept} can vary across cultures.,The meaning of bronze can vary across cultures.
+violet,0,This is about {concept}.,This is about violet.
+violet,1,The concept of {concept} is important.,The concept of violet is important.
+violet,2,{concept} represents a fundamental idea.,violet represents a fundamental idea.
+violet,3,Understanding {concept} requires careful thought.,Understanding violet requires careful thought.
+violet,4,Many people think about {concept} differently.,Many people think about violet differently.
+violet,5,The meaning of {concept} can vary across cultures.,The meaning of violet can vary across cultures.
+indigo,0,This is about {concept}.,This is about indigo.
+indigo,1,The concept of {concept} is important.,The concept of indigo is important.
+indigo,2,{concept} represents a fundamental idea.,indigo represents a fundamental idea.
+indigo,3,Understanding {concept} requires careful thought.,Understanding indigo requires careful thought.
+indigo,4,Many people think about {concept} differently.,Many people think about indigo differently.
+indigo,5,The meaning of {concept} can vary across cultures.,The meaning of indigo can vary across cultures.
+circle,0,This is about {concept}.,This is about circle.
+circle,1,The concept of {concept} is important.,The concept of circle is important.
+circle,2,{concept} represents a fundamental idea.,circle represents a fundamental idea.
+circle,3,Understanding {concept} requires careful thought.,Understanding circle requires careful thought.
+circle,4,Many people think about {concept} differently.,Many people think about circle differently.
+circle,5,The meaning of {concept} can vary across cultures.,The meaning of circle can vary across cultures.
+square,0,This is about {concept}.,This is about square.
+square,1,The concept of {concept} is important.,The concept of square is important.
+square,2,{concept} represents a fundamental idea.,square represents a fundamental idea.
+square,3,Understanding {concept} requires careful thought.,Understanding square requires careful thought.
+square,4,Many people think about {concept} differently.,Many people think about square differently.
+square,5,The meaning of {concept} can vary across cultures.,The meaning of square can vary across cultures.
+triangle,0,This is about {concept}.,This is about triangle.
+triangle,1,The concept of {concept} is important.,The concept of triangle is important.
+triangle,2,{concept} represents a fundamental idea.,triangle represents a fundamental idea.
+triangle,3,Understanding {concept} requires careful thought.,Understanding triangle requires careful thought.
+triangle,4,Many people think about {concept} differently.,Many people think about triangle differently.
+triangle,5,The meaning of {concept} can vary across cultures.,The meaning of triangle can vary across cultures.
+rectangle,0,This is about {concept}.,This is about rectangle.
+rectangle,1,The concept of {concept} is important.,The concept of rectangle is important.
+rectangle,2,{concept} represents a fundamental idea.,rectangle represents a fundamental idea.
+rectangle,3,Understanding {concept} requires careful thought.,Understanding rectangle requires careful thought.
+rectangle,4,Many people think about {concept} differently.,Many people think about rectangle differently.
+rectangle,5,The meaning of {concept} can vary across cultures.,The meaning of rectangle can vary across cultures.
+pentagon,0,This is about {concept}.,This is about pentagon.
+pentagon,1,The concept of {concept} is important.,The concept of pentagon is important.
+pentagon,2,{concept} represents a fundamental idea.,pentagon represents a fundamental idea.
+pentagon,3,Understanding {concept} requires careful thought.,Understanding pentagon requires careful thought.
+pentagon,4,Many people think about {concept} differently.,Many people think about pentagon differently.
+pentagon,5,The meaning of {concept} can vary across cultures.,The meaning of pentagon can vary across cultures.
+hexagon,0,This is about {concept}.,This is about hexagon.
+hexagon,1,The concept of {concept} is important.,The concept of hexagon is important.
+hexagon,2,{concept} represents a fundamental idea.,hexagon represents a fundamental idea.
+hexagon,3,Understanding {concept} requires careful thought.,Understanding hexagon requires careful thought.
+hexagon,4,Many people think about {concept} differently.,Many people think about hexagon differently.
+hexagon,5,The meaning of {concept} can vary across cultures.,The meaning of hexagon can vary across cultures.
+sphere,0,This is about {concept}.,This is about sphere.
+sphere,1,The concept of {concept} is important.,The concept of sphere is important.
+sphere,2,{concept} represents a fundamental idea.,sphere represents a fundamental idea.
+sphere,3,Understanding {concept} requires careful thought.,Understanding sphere requires careful thought.
+sphere,4,Many people think about {concept} differently.,Many people think about sphere differently.
+sphere,5,The meaning of {concept} can vary across cultures.,The meaning of sphere can vary across cultures.
+cube,0,This is about {concept}.,This is about cube.
+cube,1,The concept of {concept} is important.,The concept of cube is important.
+cube,2,{concept} represents a fundamental idea.,cube represents a fundamental idea.
+cube,3,Understanding {concept} requires careful thought.,Understanding cube requires careful thought.
+cube,4,Many people think about {concept} differently.,Many people think about cube differently.
+cube,5,The meaning of {concept} can vary across cultures.,The meaning of cube can vary across cultures.
+pyramid,0,This is about {concept}.,This is about pyramid.
+pyramid,1,The concept of {concept} is important.,The concept of pyramid is important.
+pyramid,2,{concept} represents a fundamental idea.,pyramid represents a fundamental idea.
+pyramid,3,Understanding {concept} requires careful thought.,Understanding pyramid requires careful thought.
+pyramid,4,Many people think about {concept} differently.,Many people think about pyramid differently.
+pyramid,5,The meaning of {concept} can vary across cultures.,The meaning of pyramid can vary across cultures.
+cylinder,0,This is about {concept}.,This is about cylinder.
+cylinder,1,The concept of {concept} is important.,The concept of cylinder is important.
+cylinder,2,{concept} represents a fundamental idea.,cylinder represents a fundamental idea.
+cylinder,3,Understanding {concept} requires careful thought.,Understanding cylinder requires careful thought.
+cylinder,4,Many people think about {concept} differently.,Many people think about cylinder differently.
+cylinder,5,The meaning of {concept} can vary across cultures.,The meaning of cylinder can vary across cultures.
+cone,0,This is about {concept}.,This is about cone.
+cone,1,The concept of {concept} is important.,The concept of cone is important.
+cone,2,{concept} represents a fundamental idea.,cone represents a fundamental idea.
+cone,3,Understanding {concept} requires careful thought.,Understanding cone requires careful thought.
+cone,4,Many people think about {concept} differently.,Many people think about cone differently.
+cone,5,The meaning of {concept} can vary across cultures.,The meaning of cone can vary across cultures.
+prism,0,This is about {concept}.,This is about prism.
+prism,1,The concept of {concept} is important.,The concept of prism is important.
+prism,2,{concept} represents a fundamental idea.,prism represents a fundamental idea.
+prism,3,Understanding {concept} requires careful thought.,Understanding prism requires careful thought.
+prism,4,Many people think about {concept} differently.,Many people think about prism differently.
+prism,5,The meaning of {concept} can vary across cultures.,The meaning of prism can vary across cultures.
+oval,0,This is about {concept}.,This is about oval.
+oval,1,The concept of {concept} is important.,The concept of oval is important.
+oval,2,{concept} represents a fundamental idea.,oval represents a fundamental idea.
+oval,3,Understanding {concept} requires careful thought.,Understanding oval requires careful thought.
+oval,4,Many people think about {concept} differently.,Many people think about oval differently.
+oval,5,The meaning of {concept} can vary across cultures.,The meaning of oval can vary across cultures.
+diamond,0,This is about {concept}.,This is about diamond.
+diamond,1,The concept of {concept} is important.,The concept of diamond is important.
+diamond,2,{concept} represents a fundamental idea.,diamond represents a fundamental idea.
+diamond,3,Understanding {concept} requires careful thought.,Understanding diamond requires careful thought.
+diamond,4,Many people think about {concept} differently.,Many people think about diamond differently.
+diamond,5,The meaning of {concept} can vary across cultures.,The meaning of diamond can vary across cultures.
+star shape,0,This is about {concept}.,This is about star shape.
+star shape,1,The concept of {concept} is important.,The concept of star shape is important.
+star shape,2,{concept} represents a fundamental idea.,star shape represents a fundamental idea.
+star shape,3,Understanding {concept} requires careful thought.,Understanding star shape requires careful thought.
+star shape,4,Many people think about {concept} differently.,Many people think about star shape differently.
+star shape,5,The meaning of {concept} can vary across cultures.,The meaning of star shape can vary across cultures.
+heart shape,0,This is about {concept}.,This is about heart shape.
+heart shape,1,The concept of {concept} is important.,The concept of heart shape is important.
+heart shape,2,{concept} represents a fundamental idea.,heart shape represents a fundamental idea.
+heart shape,3,Understanding {concept} requires careful thought.,Understanding heart shape requires careful thought.
+heart shape,4,Many people think about {concept} differently.,Many people think about heart shape differently.
+heart shape,5,The meaning of {concept} can vary across cultures.,The meaning of heart shape can vary across cultures.
+table,0,This is about {concept}.,This is about table.
+table,1,The concept of {concept} is important.,The concept of table is important.
+table,2,{concept} represents a fundamental idea.,table represents a fundamental idea.
+table,3,Understanding {concept} requires careful thought.,Understanding table requires careful thought.
+table,4,Many people think about {concept} differently.,Many people think about table differently.
+table,5,The meaning of {concept} can vary across cultures.,The meaning of table can vary across cultures.
+chair,0,This is about {concept}.,This is about chair.
+chair,1,The concept of {concept} is important.,The concept of chair is important.
+chair,2,{concept} represents a fundamental idea.,chair represents a fundamental idea.
+chair,3,Understanding {concept} requires careful thought.,Understanding chair requires careful thought.
+chair,4,Many people think about {concept} differently.,Many people think about chair differently.
+chair,5,The meaning of {concept} can vary across cultures.,The meaning of chair can vary across cultures.
+door,0,This is about {concept}.,This is about door.
+door,1,The concept of {concept} is important.,The concept of door is important.
+door,2,{concept} represents a fundamental idea.,door represents a fundamental idea.
+door,3,Understanding {concept} requires careful thought.,Understanding door requires careful thought.
+door,4,Many people think about {concept} differently.,Many people think about door differently.
+door,5,The meaning of {concept} can vary across cultures.,The meaning of door can vary across cultures.
+window,0,This is about {concept}.,This is about window.
+window,1,The concept of {concept} is important.,The concept of window is important.
+window,2,{concept} represents a fundamental idea.,window represents a fundamental idea.
+window,3,Understanding {concept} requires careful thought.,Understanding window requires careful thought.
+window,4,Many people think about {concept} differently.,Many people think about window differently.
+window,5,The meaning of {concept} can vary across cultures.,The meaning of window can vary across cultures.
+book,0,This is about {concept}.,This is about book.
+book,1,The concept of {concept} is important.,The concept of book is important.
+book,2,{concept} represents a fundamental idea.,book represents a fundamental idea.
+book,3,Understanding {concept} requires careful thought.,Understanding book requires careful thought.
+book,4,Many people think about {concept} differently.,Many people think about book differently.
+book,5,The meaning of {concept} can vary across cultures.,The meaning of book can vary across cultures.
+pen,0,This is about {concept}.,This is about pen.
+pen,1,The concept of {concept} is important.,The concept of pen is important.
+pen,2,{concept} represents a fundamental idea.,pen represents a fundamental idea.
+pen,3,Understanding {concept} requires careful thought.,Understanding pen requires careful thought.
+pen,4,Many people think about {concept} differently.,Many people think about pen differently.
+pen,5,The meaning of {concept} can vary across cultures.,The meaning of pen can vary across cultures.
+paper,0,This is about {concept}.,This is about paper.
+paper,1,The concept of {concept} is important.,The concept of paper is important.
+paper,2,{concept} represents a fundamental idea.,paper represents a fundamental idea.
+paper,3,Understanding {concept} requires careful thought.,Understanding paper requires careful thought.
+paper,4,Many people think about {concept} differently.,Many people think about paper differently.
+paper,5,The meaning of {concept} can vary across cultures.,The meaning of paper can vary across cultures.
+computer,0,This is about {concept}.,This is about computer.
+computer,1,The concept of {concept} is important.,The concept of computer is important.
+computer,2,{concept} represents a fundamental idea.,computer represents a fundamental idea.
+computer,3,Understanding {concept} requires careful thought.,Understanding computer requires careful thought.
+computer,4,Many people think about {concept} differently.,Many people think about computer differently.
+computer,5,The meaning of {concept} can vary across cultures.,The meaning of computer can vary across cultures.
+phone,0,This is about {concept}.,This is about phone.
+phone,1,The concept of {concept} is important.,The concept of phone is important.
+phone,2,{concept} represents a fundamental idea.,phone represents a fundamental idea.
+phone,3,Understanding {concept} requires careful thought.,Understanding phone requires careful thought.
+phone,4,Many people think about {concept} differently.,Many people think about phone differently.
+phone,5,The meaning of {concept} can vary across cultures.,The meaning of phone can vary across cultures.
+car,0,This is about {concept}.,This is about car.
+car,1,The concept of {concept} is important.,The concept of car is important.
+car,2,{concept} represents a fundamental idea.,car represents a fundamental idea.
+car,3,Understanding {concept} requires careful thought.,Understanding car requires careful thought.
+car,4,Many people think about {concept} differently.,Many people think about car differently.
+car,5,The meaning of {concept} can vary across cultures.,The meaning of car can vary across cultures.
+bicycle,0,This is about {concept}.,This is about bicycle.
+bicycle,1,The concept of {concept} is important.,The concept of bicycle is important.
+bicycle,2,{concept} represents a fundamental idea.,bicycle represents a fundamental idea.
+bicycle,3,Understanding {concept} requires careful thought.,Understanding bicycle requires careful thought.
+bicycle,4,Many people think about {concept} differently.,Many people think about bicycle differently.
+bicycle,5,The meaning of {concept} can vary across cultures.,The meaning of bicycle can vary across cultures.
+house,0,This is about {concept}.,This is about house.
+house,1,The concept of {concept} is important.,The concept of house is important.
+house,2,{concept} represents a fundamental idea.,house represents a fundamental idea.
+house,3,Understanding {concept} requires careful thought.,Understanding house requires careful thought.
+house,4,Many people think about {concept} differently.,Many people think about house differently.
+house,5,The meaning of {concept} can vary across cultures.,The meaning of house can vary across cultures.
+building,0,This is about {concept}.,This is about building.
+building,1,The concept of {concept} is important.,The concept of building is important.
+building,2,{concept} represents a fundamental idea.,building represents a fundamental idea.
+building,3,Understanding {concept} requires careful thought.,Understanding building requires careful thought.
+building,4,Many people think about {concept} differently.,Many people think about building differently.
+building,5,The meaning of {concept} can vary across cultures.,The meaning of building can vary across cultures.
+bridge,0,This is about {concept}.,This is about bridge.
+bridge,1,The concept of {concept} is important.,The concept of bridge is important.
+bridge,2,{concept} represents a fundamental idea.,bridge represents a fundamental idea.
+bridge,3,Understanding {concept} requires careful thought.,Understanding bridge requires careful thought.
+bridge,4,Many people think about {concept} differently.,Many people think about bridge differently.
+bridge,5,The meaning of {concept} can vary across cultures.,The meaning of bridge can vary across cultures.
+road,0,This is about {concept}.,This is about road.
+road,1,The concept of {concept} is important.,The concept of road is important.
+road,2,{concept} represents a fundamental idea.,road represents a fundamental idea.
+road,3,Understanding {concept} requires careful thought.,Understanding road requires careful thought.
+road,4,Many people think about {concept} differently.,Many people think about road differently.
+road,5,The meaning of {concept} can vary across cultures.,The meaning of road can vary across cultures.
+path,0,This is about {concept}.,This is about path.
+path,1,The concept of {concept} is important.,The concept of path is important.
+path,2,{concept} represents a fundamental idea.,path represents a fundamental idea.
+path,3,Understanding {concept} requires careful thought.,Understanding path requires careful thought.
+path,4,Many people think about {concept} differently.,Many people think about path differently.
+path,5,The meaning of {concept} can vary across cultures.,The meaning of path can vary across cultures.
+running,0,This is about {concept}.,This is about running.
+running,1,The concept of {concept} is important.,The concept of running is important.
+running,2,{concept} represents a fundamental idea.,running represents a fundamental idea.
+running,3,Understanding {concept} requires careful thought.,Understanding running requires careful thought.
+running,4,Many people think about {concept} differently.,Many people think about running differently.
+running,5,The meaning of {concept} can vary across cultures.,The meaning of running can vary across cultures.
+walking,0,This is about {concept}.,This is about walking.
+walking,1,The concept of {concept} is important.,The concept of walking is important.
+walking,2,{concept} represents a fundamental idea.,walking represents a fundamental idea.
+walking,3,Understanding {concept} requires careful thought.,Understanding walking requires careful thought.
+walking,4,Many people think about {concept} differently.,Many people think about walking differently.
+walking,5,The meaning of {concept} can vary across cultures.,The meaning of walking can vary across cultures.
+jumping,0,This is about {concept}.,This is about jumping.
+jumping,1,The concept of {concept} is important.,The concept of jumping is important.
+jumping,2,{concept} represents a fundamental idea.,jumping represents a fundamental idea.
+jumping,3,Understanding {concept} requires careful thought.,Understanding jumping requires careful thought.
+jumping,4,Many people think about {concept} differently.,Many people think about jumping differently.
+jumping,5,The meaning of {concept} can vary across cultures.,The meaning of jumping can vary across cultures.
+swimming,0,This is about {concept}.,This is about swimming.
+swimming,1,The concept of {concept} is important.,The concept of swimming is important.
+swimming,2,{concept} represents a fundamental idea.,swimming represents a fundamental idea.
+swimming,3,Understanding {concept} requires careful thought.,Understanding swimming requires careful thought.
+swimming,4,Many people think about {concept} differently.,Many people think about swimming differently.
+swimming,5,The meaning of {concept} can vary across cultures.,The meaning of swimming can vary across cultures.
+flying,0,This is about {concept}.,This is about flying.
+flying,1,The concept of {concept} is important.,The concept of flying is important.
+flying,2,{concept} represents a fundamental idea.,flying represents a fundamental idea.
+flying,3,Understanding {concept} requires careful thought.,Understanding flying requires careful thought.
+flying,4,Many people think about {concept} differently.,Many people think about flying differently.
+flying,5,The meaning of {concept} can vary across cultures.,The meaning of flying can vary across cultures.
+climbing,0,This is about {concept}.,This is about climbing.
+climbing,1,The concept of {concept} is important.,The concept of climbing is important.
+climbing,2,{concept} represents a fundamental idea.,climbing represents a fundamental idea.
+climbing,3,Understanding {concept} requires careful thought.,Understanding climbing requires careful thought.
+climbing,4,Many people think about {concept} differently.,Many people think about climbing differently.
+climbing,5,The meaning of {concept} can vary across cultures.,The meaning of climbing can vary across cultures.
