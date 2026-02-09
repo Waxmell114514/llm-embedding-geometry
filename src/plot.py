@@ -146,8 +146,12 @@ def plot_heatmap(
                 aggfunc="mean"
             )
             
-            # Reshape for heatmap
-            pivot_reshaped = pivot.to_frame().T
+            # Convert to DataFrame for heatmap
+            if isinstance(pivot, pd.Series):
+                pivot = pivot.to_frame(name="ID")
+            
+            # Transpose to have configurations as columns
+            pivot_reshaped = pivot.T
             
             sns.heatmap(
                 pivot_reshaped,
