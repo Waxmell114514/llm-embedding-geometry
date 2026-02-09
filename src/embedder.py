@@ -202,10 +202,13 @@ def normalize_embeddings(
     if method == "none":
         return embeddings
     
-    elif method == "l2":
+    # Use appropriate epsilon based on dtype
+    eps = np.finfo(embeddings.dtype).eps * 10
+    
+    if method == "l2":
         # L2 normalization
         norms = np.linalg.norm(embeddings, axis=1, keepdims=True)
-        return embeddings / (norms + 1e-10)
+        return embeddings / (norms + eps)
     
     elif method == "center":
         # Center to zero mean
@@ -216,7 +219,7 @@ def normalize_embeddings(
         # Whiten: zero mean and unit variance
         mean = np.mean(embeddings, axis=0, keepdims=True)
         std = np.std(embeddings, axis=0, keepdims=True)
-        return (embeddings - mean) / (std + 1e-10)
+        return (embeddings - mean) / (std + eps)
     
     else:
         raise ValueError(f"Unknown normalization method: {method}")

@@ -51,9 +51,13 @@ def normalize_embeddings(embeddings, method="none"):
     """Normalize embeddings."""
     if method == "none":
         return embeddings
-    elif method == "l2":
+    
+    # Use appropriate epsilon based on dtype
+    eps = np.finfo(embeddings.dtype).eps * 10
+    
+    if method == "l2":
         norms = np.linalg.norm(embeddings, axis=1, keepdims=True)
-        return embeddings / (norms + 1e-10)
+        return embeddings / (norms + eps)
     elif method == "center":
         mean = np.mean(embeddings, axis=0, keepdims=True)
         return embeddings - mean

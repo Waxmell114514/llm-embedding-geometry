@@ -60,6 +60,9 @@ def knn_mle_levina_bickel(
     # Get k-NN distances
     distances = compute_knn_distances(X, k, metric)
     
+    # Use appropriate epsilon based on dtype
+    eps = np.finfo(X.dtype).eps * 10
+    
     # Compute the MLE estimate for each point
     # ID = (k-1) / sum(log(r_k / r_i)) for i=1..k-1
     # where r_i is distance to i-th nearest neighbor
@@ -73,14 +76,14 @@ def knn_mle_levina_bickel(
         r_k = r[-1]
         
         # Avoid division by zero or log(0)
-        if r_k < 1e-10:
+        if r_k < eps:
             continue
             
         # Distances to first k-1 neighbors
         r_j = r[:-1]  # shape (k-1,)
         
         # Avoid division by zero
-        valid = r_j > 1e-10
+        valid = r_j > eps
         if not np.any(valid):
             continue
         
@@ -125,8 +128,11 @@ def twonn(
     r1 = distances[:, 0]
     r2 = distances[:, 1]
     
+    # Use appropriate epsilon based on dtype
+    eps = np.finfo(X.dtype).eps * 10
+    
     # Compute mu = r2 / r1
-    valid = (r1 > 1e-10) & (r2 > 1e-10)
+    valid = (r1 > eps) & (r2 > eps)
     mu = r2[valid] / r1[valid]
     
     if len(mu) == 0:
