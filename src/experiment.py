@@ -9,9 +9,9 @@ from pathlib import Path
 from tqdm import tqdm
 import itertools
 
-from dataset import load_texts
-from embedder import get_embedder, NormalizationMethod
-from id_mle import estimate_id_with_ci, DistanceMetric
+from .dataset import load_texts
+from .embedder import get_embedder, NormalizationMethod
+from .id_mle import estimate_id_with_ci, DistanceMetric
 
 
 def run_experiment(

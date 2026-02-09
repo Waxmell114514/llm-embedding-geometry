@@ -96,6 +96,12 @@ python run_pipeline.py --use-openai
 python run_pipeline.py --skip-experiments
 ```
 
+### Test Installation
+
+```bash
+python test_installation.py
+```
+
 ## Project Structure
 
 ```
@@ -103,6 +109,7 @@ llm-embedding-geometry/
 ├── data/
 │   └── texts.csv              # 900 texts (150 concepts × 6 templates)
 ├── src/
+│   ├── __init__.py            # Package initialization
 │   ├── dataset.py             # Data loading and generation
 │   ├── embedder.py            # Unified embedding interface
 │   ├── id_mle.py              # ID estimation algorithms
@@ -115,12 +122,22 @@ llm-embedding-geometry/
 │   └── comparison.png
 ├── embeddings_cache/          # Cached embeddings (generated)
 ├── run_pipeline.py            # Main pipeline script
+├── demo.py                    # Demo with simulated embeddings
+├── test_installation.py       # Installation verification script
 ├── requirements.txt           # Python dependencies
 ├── .env.example               # Environment variables template
 ├── .gitignore
+├── CONTRIBUTING.md            # Contribution guidelines
+├── EXAMPLES.md                # Detailed usage examples
 ├── LICENSE
 └── README.md
 ```
+
+## Documentation
+
+- **README.md** (this file): Overview, installation, and quick start
+- **[EXAMPLES.md](EXAMPLES.md)**: Detailed usage examples and tutorials
+- **[CONTRIBUTING.md](CONTRIBUTING.md)**: Guidelines for contributing to the project
 
 ## Usage Examples
 
